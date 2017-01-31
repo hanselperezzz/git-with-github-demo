@@ -3,9 +3,9 @@
 # this is a demo of git pull command
 # this is a mac demo..2
 # SSH Communication based on password
-# TEAM
-#some change ---now
-# diff change test
+#SSH Communication based on password
+i# TEAM
+some change ---now
     <name> -- <role> -- <twitter>
 
 # THANKS
